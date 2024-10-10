@@ -1,1 +1,5 @@
 bots/*
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/tictactoeEnv.iml
